@@ -4,6 +4,10 @@ Aksorn Khantasit (Fai)
 =======
 
 <<<<<<< HEAD
+
+Thawatchai Phuchana (Sand)
+=======
+<<<<<<< HEAD
 Pawee Kittiwathanakul (boat)
 =======
 Phonthep Aungkanukulwit (mos)
