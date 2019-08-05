@@ -2,16 +2,31 @@ Prapasiri Lertkriangkraying (jinnyja)
 Aksorn Khantasit (Fai)
 Thawatchai Phuchana (Sand)
 Pawee Kittiwathanakul (boat)
+Thawatchai Phuchana (Sand)
+Pawee Kittiwathanakul (boat)
 Phonthep Aungkanukulwit (mos)
 Siripron Thammarakkitanon (mai)
 Piyada Suwansa-ard (noey)
 Chayaporn Chatchotikawong (rachel)
 Chayaporn Kaewin (Ning)
 (Hansa)thon Chuay-on
+Wassa Tunsiri (Sa)
 Kanchana Phakdeedorn(Bo)
 Sarik Kumpan (K)
+<<<<<<< HEAD
 <<<<<<< HEAD
 Jiratip Hemwutthipan(jj)
 =======
 Ratchadaphorn Kasemphin (May)
 >>>>>>> 92fef456df57202d746c085e20c500da5e60324f
+=======
+Papada preedagorn (pang)
+Ratchadaphorn Kasemphin (May)
+Jiratip Hemwutthipan(jj)
+Ratchadaphorn Kasemphin (May)
+<<<<<<< HEAD
+Nura-ainee yako(Yeast)
+=======
+
+>>>>>>> fc9e55303be24d6dd7e7435ff112b0a586d0d33a
+>>>>>>> f660043c1e70bb50eab33f2745e0e68ff5e9246f
