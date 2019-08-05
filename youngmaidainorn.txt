@@ -1,3 +1,8 @@
 Prapasiri Lertkriangkraying (jinnyja)
 
+<<<<<<< HEAD
 Pawee Kittiwathanakul (boat)
+=======
+Phonthep Aungkanukulwit (mos)
+
+>>>>>>> 62535776b1412e794db8d7079797db5779b52df7
