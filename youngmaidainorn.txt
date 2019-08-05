@@ -10,8 +10,5 @@ Chayaporn Kaewin (Ning)
 (Hansa)thon Chuay-on
 Kanchana Phakdeedorn(Bo)
 Sarik Kumpan (K)
-<<<<<<< HEAD
 Jiratip Hemwutthipan(jj)
-=======
 Ratchadaphorn Kasemphin (May)
->>>>>>> 92fef456df57202d746c085e20c500da5e60324f
